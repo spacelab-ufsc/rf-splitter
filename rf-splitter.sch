@@ -13,4 +13,191 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 60F56697
+P 3750 2650
+F 0 "H1" H 3850 2696 50  0000 L CNN
+F 1 "MountingHole" H 3850 2605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom" H 3750 2650 50  0001 C CNN
+F 3 "~" H 3750 2650 50  0001 C CNN
+	1    3750 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60F57425
+P 3750 3150
+F 0 "H2" H 3850 3196 50  0000 L CNN
+F 1 "MountingHole" H 3850 3105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom" H 3750 3150 50  0001 C CNN
+F 3 "~" H 3750 3150 50  0001 C CNN
+	1    3750 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 60F577F0
+P 3750 3650
+F 0 "H3" H 3850 3696 50  0000 L CNN
+F 1 "MountingHole" H 3850 3605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom" H 3750 3650 50  0001 C CNN
+F 3 "~" H 3750 3650 50  0001 C CNN
+	1    3750 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 60F579B6
+P 3750 4150
+F 0 "H4" H 3850 4196 50  0000 L CNN
+F 1 "MountingHole" H 3850 4105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom" H 3750 4150 50  0001 C CNN
+F 3 "~" H 3750 4150 50  0001 C CNN
+	1    3750 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ESQ-126-34-G-D:ESQ-126-34-G-D J1
+U 1 1 60F59071
+P 5750 4000
+F 0 "J1" H 5750 5567 50  0000 C CNN
+F 1 "ESQ-126-34-G-D" H 5750 5476 50  0000 C CNN
+F 2 "lib:SAMTEC_ESQ-126-34-G-D" H 5750 4000 50  0001 L BNN
+F 3 "" H 5750 4000 50  0001 L BNN
+F 4 "Manufacturer Recommendations" H 5750 4000 50  0001 L BNN "STANDARD"
+F 5 "R" H 5750 4000 50  0001 L BNN "PARTREV"
+F 6 "Samtec" H 5750 4000 50  0001 L BNN "MANUFACTURER"
+	1    5750 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ESQ-126-34-G-D:ESQ-126-34-G-D J2
+U 1 1 60F5C192
+P 7650 4000
+F 0 "J2" H 7650 5567 50  0000 C CNN
+F 1 "ESQ-126-34-G-D" H 7650 5476 50  0000 C CNN
+F 2 "lib:SAMTEC_ESQ-126-34-G-D" H 7650 4000 50  0001 L BNN
+F 3 "" H 7650 4000 50  0001 L BNN
+F 4 "Manufacturer Recommendations" H 7650 4000 50  0001 L BNN "STANDARD"
+F 5 "R" H 7650 4000 50  0001 L BNN "PARTREV"
+F 6 "Samtec" H 7650 4000 50  0001 L BNN "MANUFACTURER"
+	1    7650 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Z99SC-62-S:Z99SC-62-S+ U1
+U 1 1 60F7F1D6
+P 3750 5000
+F 0 "U1" H 4278 5046 50  0000 L CNN
+F 1 "Z99SC-62-S+" H 4278 4955 50  0000 L CNN
+F 2 "Z99SC-62-S:Z99SC-62-S+" H 3750 5000 50  0001 C CNN
+F 3 "" H 3750 5000 50  0001 C CNN
+	1    3750 5000
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5250 2700
+NoConn ~ 5250 2800
+NoConn ~ 5250 2900
+NoConn ~ 5250 3000
+NoConn ~ 5250 3100
+NoConn ~ 5250 3200
+NoConn ~ 5250 3400
+NoConn ~ 5250 3300
+NoConn ~ 5250 3500
+NoConn ~ 5250 3600
+NoConn ~ 5250 3700
+NoConn ~ 5250 3800
+NoConn ~ 5250 3900
+NoConn ~ 5250 4000
+NoConn ~ 5250 4100
+NoConn ~ 5250 4200
+NoConn ~ 5250 4300
+NoConn ~ 5250 4400
+NoConn ~ 5250 4500
+NoConn ~ 5250 4600
+NoConn ~ 5250 4700
+NoConn ~ 5250 4800
+NoConn ~ 5250 4900
+NoConn ~ 5250 5000
+NoConn ~ 5250 5100
+NoConn ~ 5250 5200
+NoConn ~ 6250 2700
+NoConn ~ 6250 2800
+NoConn ~ 6250 2900
+NoConn ~ 6250 3000
+NoConn ~ 6250 3100
+NoConn ~ 6250 3200
+NoConn ~ 6250 3300
+NoConn ~ 6250 3400
+NoConn ~ 6250 3500
+NoConn ~ 6250 3600
+NoConn ~ 6250 3700
+NoConn ~ 6250 3800
+NoConn ~ 6250 3900
+NoConn ~ 6250 4000
+NoConn ~ 6250 4100
+NoConn ~ 6250 4200
+NoConn ~ 6250 4300
+NoConn ~ 6250 4400
+NoConn ~ 6250 4500
+NoConn ~ 6250 4600
+NoConn ~ 6250 4700
+NoConn ~ 6250 4800
+NoConn ~ 6250 4900
+NoConn ~ 6250 5000
+NoConn ~ 6250 5100
+NoConn ~ 6250 5200
+NoConn ~ 7150 2700
+NoConn ~ 7150 2800
+NoConn ~ 7150 2900
+NoConn ~ 7150 3000
+NoConn ~ 7150 3100
+NoConn ~ 7150 3200
+NoConn ~ 7150 3300
+NoConn ~ 7150 3400
+NoConn ~ 7150 3500
+NoConn ~ 7150 3600
+NoConn ~ 7150 3700
+NoConn ~ 7150 3800
+NoConn ~ 7150 3900
+NoConn ~ 7150 4000
+NoConn ~ 7150 4100
+NoConn ~ 7150 4200
+NoConn ~ 7150 4300
+NoConn ~ 7150 4400
+NoConn ~ 7150 4500
+NoConn ~ 7150 4600
+NoConn ~ 7150 4700
+NoConn ~ 7150 4800
+NoConn ~ 7150 4900
+NoConn ~ 7150 5000
+NoConn ~ 7150 5100
+NoConn ~ 7150 5200
+NoConn ~ 8150 5200
+NoConn ~ 8150 5100
+NoConn ~ 8150 5000
+NoConn ~ 8150 4900
+NoConn ~ 8150 4800
+NoConn ~ 8150 4700
+NoConn ~ 8150 4600
+NoConn ~ 8150 4500
+NoConn ~ 8150 4400
+NoConn ~ 8150 4300
+NoConn ~ 8150 4200
+NoConn ~ 8150 4100
+NoConn ~ 8150 4000
+NoConn ~ 8150 3900
+NoConn ~ 8150 3800
+NoConn ~ 8150 3700
+NoConn ~ 8150 3600
+NoConn ~ 8150 3500
+NoConn ~ 8150 3400
+NoConn ~ 8150 3300
+NoConn ~ 8150 3200
+NoConn ~ 8150 3100
+NoConn ~ 8150 3000
+NoConn ~ 8150 2900
+NoConn ~ 8150 2800
+NoConn ~ 8150 2700
 $EndSCHEMATC

@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Z99SC-62-S+
+#
+DEF Z99SC-62-S+ U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "Z99SC-62-S+" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -500 -500 500 500 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
