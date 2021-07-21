@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/spacelab-ufsc/rf-splitter/blob/master/doc/rf-splitter.png">
+    <img src="https://github.com/spacelab-ufsc/rf-splitter/blob/main/doc/rf-splitter.png">
 </p>
 
 ## Overview
