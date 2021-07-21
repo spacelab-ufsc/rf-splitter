@@ -1,5 +1,6 @@
 SRC=main
-TARGET=doc-template
+VERSION=v0.0
+TARGET=slb-splitter-doc-$(VERSION)
 
 ifndef BUILD_DIR
 	BUILD_DIR=build
