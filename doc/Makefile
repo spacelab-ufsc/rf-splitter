@@ -1,5 +1,5 @@
 SRC=main
-VERSION=v0.0
+VERSION=v0.1
 TARGET=slb-splitter-doc-$(VERSION)
 
 ifndef BUILD_DIR
